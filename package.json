@@ -1,0 +1,14 @@
+{
+    "name": "first-wednesday",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "Russ Biggs",
+    "license": "ISC",
+    "devDependencies": {
+        "tape": "^4.8.0"
+    }
+}
